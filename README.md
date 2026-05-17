@@ -7,7 +7,7 @@ I'm a tech enthusiast with a knack for **full stack development**, **AI wizardry
 
 | **Category**             | **Technologies/Tools**                              |
 |---------------------------|----------------------------------------------------|
-| **AI/Machine Learning**   | OpenAPI, TensorFlow                                |
+| **AI/Machine Learning**   | OpenAI, TensorFlow                                |
 | **Backend**               | NodeJS (Express), Java (Spring Boot)              |
 | **Cloud**                 | Google Cloud, AWS                                 |
 | **Databases**             | MongoDB, Firestore, Postgres, MySQL, Elastic Cache|
